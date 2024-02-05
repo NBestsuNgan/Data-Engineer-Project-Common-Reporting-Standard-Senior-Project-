@@ -1,7 +1,9 @@
-Hello visitor.
-This project is my senior project that co-work with a company that i had internship with.
+Welcome to My Senior Project Repository!
+Hello there, visitor! This repository showcases my senior project, which was developed in collaboration with a company during my internship.
 
-1.first file PDF is my report that contain introduction, theory, methodology and result.
-2.second file is a link that you can see the overall of my project and what it delivers.
+Contents:
+Report PDF: The first file contains a comprehensive report detailing the project's introduction, theory, methodology, and results.
 
-thank you for watching. :)
+Project Overview Link: The second file provides a link where you can explore the overall scope of my project and its deliverables.
+
+Thank you for taking the time to explore my work! Your interest is truly appreciated. 😊
